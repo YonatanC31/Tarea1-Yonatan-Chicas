@@ -1,0 +1,28 @@
+C:\Users\chica\source\repos\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\bin\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.exe
+C:\Users\chica\source\repos\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\bin\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.deps.json
+C:\Users\chica\source\repos\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\bin\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.runtimeconfig.json
+C:\Users\chica\source\repos\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\bin\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.dll
+C:\Users\chica\source\repos\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\bin\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.pdb
+C:\Users\chica\source\repos\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chica\source\repos\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.AssemblyInfoInputs.cache
+C:\Users\chica\source\repos\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.AssemblyInfo.cs
+C:\Users\chica\source\repos\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\chica\source\repos\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.dll
+C:\Users\chica\source\repos\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\refint\POO- Yonatanagustinchicasamayaejercicio2.dll
+C:\Users\chica\source\repos\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.pdb
+C:\Users\chica\source\repos\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.genruntimeconfig.cache
+C:\Users\chica\source\repos\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\ref\POO- Yonatanagustinchicasamayaejercicio2.dll
+C:\Users\chica\Desktop\TAREA 1-YONATAN CHICAS\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\bin\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.exe
+C:\Users\chica\Desktop\TAREA 1-YONATAN CHICAS\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\bin\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.deps.json
+C:\Users\chica\Desktop\TAREA 1-YONATAN CHICAS\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\bin\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.runtimeconfig.json
+C:\Users\chica\Desktop\TAREA 1-YONATAN CHICAS\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\bin\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.dll
+C:\Users\chica\Desktop\TAREA 1-YONATAN CHICAS\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\bin\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.pdb
+C:\Users\chica\Desktop\TAREA 1-YONATAN CHICAS\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chica\Desktop\TAREA 1-YONATAN CHICAS\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.AssemblyInfoInputs.cache
+C:\Users\chica\Desktop\TAREA 1-YONATAN CHICAS\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.AssemblyInfo.cs
+C:\Users\chica\Desktop\TAREA 1-YONATAN CHICAS\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\chica\Desktop\TAREA 1-YONATAN CHICAS\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.dll
+C:\Users\chica\Desktop\TAREA 1-YONATAN CHICAS\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\refint\POO- Yonatanagustinchicasamayaejercicio2.dll
+C:\Users\chica\Desktop\TAREA 1-YONATAN CHICAS\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.pdb
+C:\Users\chica\Desktop\TAREA 1-YONATAN CHICAS\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\POO- Yonatanagustinchicasamayaejercicio2.genruntimeconfig.cache
+C:\Users\chica\Desktop\TAREA 1-YONATAN CHICAS\POO- Yonatanagustinchicasamayaejercicio2\POO- Yonatanagustinchicasamayaejercicio2\obj\Debug\net8.0\ref\POO- Yonatanagustinchicasamayaejercicio2.dll

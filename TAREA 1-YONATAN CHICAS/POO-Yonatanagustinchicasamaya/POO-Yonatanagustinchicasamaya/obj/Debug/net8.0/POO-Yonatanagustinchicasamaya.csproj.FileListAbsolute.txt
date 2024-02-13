@@ -1,0 +1,14 @@
+C:\Users\chica\Desktop\CICLO 01 2024\PROGRAMACION ORIENTADA A OBJETOS I\POO-Yonatanagustinchicasamaya\POO-Yonatanagustinchicasamaya\bin\Debug\net8.0\POO-Yonatanagustinchicasamaya.exe
+C:\Users\chica\Desktop\CICLO 01 2024\PROGRAMACION ORIENTADA A OBJETOS I\POO-Yonatanagustinchicasamaya\POO-Yonatanagustinchicasamaya\bin\Debug\net8.0\POO-Yonatanagustinchicasamaya.deps.json
+C:\Users\chica\Desktop\CICLO 01 2024\PROGRAMACION ORIENTADA A OBJETOS I\POO-Yonatanagustinchicasamaya\POO-Yonatanagustinchicasamaya\bin\Debug\net8.0\POO-Yonatanagustinchicasamaya.runtimeconfig.json
+C:\Users\chica\Desktop\CICLO 01 2024\PROGRAMACION ORIENTADA A OBJETOS I\POO-Yonatanagustinchicasamaya\POO-Yonatanagustinchicasamaya\bin\Debug\net8.0\POO-Yonatanagustinchicasamaya.dll
+C:\Users\chica\Desktop\CICLO 01 2024\PROGRAMACION ORIENTADA A OBJETOS I\POO-Yonatanagustinchicasamaya\POO-Yonatanagustinchicasamaya\bin\Debug\net8.0\POO-Yonatanagustinchicasamaya.pdb
+C:\Users\chica\Desktop\CICLO 01 2024\PROGRAMACION ORIENTADA A OBJETOS I\POO-Yonatanagustinchicasamaya\POO-Yonatanagustinchicasamaya\obj\Debug\net8.0\POO-Yonatanagustinchicasamaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chica\Desktop\CICLO 01 2024\PROGRAMACION ORIENTADA A OBJETOS I\POO-Yonatanagustinchicasamaya\POO-Yonatanagustinchicasamaya\obj\Debug\net8.0\POO-Yonatanagustinchicasamaya.AssemblyInfoInputs.cache
+C:\Users\chica\Desktop\CICLO 01 2024\PROGRAMACION ORIENTADA A OBJETOS I\POO-Yonatanagustinchicasamaya\POO-Yonatanagustinchicasamaya\obj\Debug\net8.0\POO-Yonatanagustinchicasamaya.AssemblyInfo.cs
+C:\Users\chica\Desktop\CICLO 01 2024\PROGRAMACION ORIENTADA A OBJETOS I\POO-Yonatanagustinchicasamaya\POO-Yonatanagustinchicasamaya\obj\Debug\net8.0\POO-Yonatanagustinchicasamaya.csproj.CoreCompileInputs.cache
+C:\Users\chica\Desktop\CICLO 01 2024\PROGRAMACION ORIENTADA A OBJETOS I\POO-Yonatanagustinchicasamaya\POO-Yonatanagustinchicasamaya\obj\Debug\net8.0\POO-Yonatanagustinchicasamaya.dll
+C:\Users\chica\Desktop\CICLO 01 2024\PROGRAMACION ORIENTADA A OBJETOS I\POO-Yonatanagustinchicasamaya\POO-Yonatanagustinchicasamaya\obj\Debug\net8.0\refint\POO-Yonatanagustinchicasamaya.dll
+C:\Users\chica\Desktop\CICLO 01 2024\PROGRAMACION ORIENTADA A OBJETOS I\POO-Yonatanagustinchicasamaya\POO-Yonatanagustinchicasamaya\obj\Debug\net8.0\POO-Yonatanagustinchicasamaya.pdb
+C:\Users\chica\Desktop\CICLO 01 2024\PROGRAMACION ORIENTADA A OBJETOS I\POO-Yonatanagustinchicasamaya\POO-Yonatanagustinchicasamaya\obj\Debug\net8.0\POO-Yonatanagustinchicasamaya.genruntimeconfig.cache
+C:\Users\chica\Desktop\CICLO 01 2024\PROGRAMACION ORIENTADA A OBJETOS I\POO-Yonatanagustinchicasamaya\POO-Yonatanagustinchicasamaya\obj\Debug\net8.0\ref\POO-Yonatanagustinchicasamaya.dll
